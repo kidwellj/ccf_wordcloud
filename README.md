@@ -1,4 +1,4 @@
-# R Word Clouds Based on Application Data
+# Word Clouds (in R) Based on Grant Application Data
 
 This application takes data scraped from the Scottish Government website which provided narrative for all successful applications for their flagship funding scheme for small-scale climate change mitigation efforts, the Climate Challenge Fund. Scraped data I used is provided in "data". 
 
